@@ -521,4 +521,7 @@
 	"Params": "Parametrar",
 	"default": "standard",
         "Pulses/Hour": "Pulser/timme"
+        "Return": "Inmatning",
+        "Actual": "Faktisk",
+        "Order": "Ordning"
 }
