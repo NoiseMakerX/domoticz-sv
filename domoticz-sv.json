@@ -541,7 +541,7 @@
 	"Raspberry Pi Camera Parameters": "Raspberry Pi kameraparametrar",
 	"Params": "Parametrar",
 	"default": "standard",
-        "Pulses/Hour": "Pulser/timme"
+        "Pulses/Hour": "Pulser/timme",
         "Return": "Inmatning",
         "Actual": "Faktisk",
         "Order": "Ordning"
