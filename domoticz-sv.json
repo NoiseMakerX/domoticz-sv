@@ -545,4 +545,10 @@
         "Return": "Inmatning",
         "Actual": "Faktisk",
         "Order": "Ordning"
+        "Sensor Type": "Sensortyp",
+        "Temp+Hum": "Temp+Luft",
+        "Temp+Hum+Baro": "Temp+Luft+Baro",
+        "No Sensor Type Selected!": "Ingen sensortyp vald!",
+        "Sensor Created, and can be found in the devices tab!": "Sensor skapad. Du finner den under enheter!",
+        "Problem creating Sensor!": "Problem vid skapandet av sensor!"
 }
