@@ -553,7 +553,7 @@
         "Problem creating Sensor!": "Problem vid skapandet av sensor!",
         "Add Plan": "Lägg till planritning",
         "Are you sure you want to delete this Plan": "Är du säker på att du vill radera denna planritning?",
-        "(Select Plan first to Edit...)": "(Välj först en planritning att redigera...)",
+        "(Select Plan first to Edit...)": "(välj en planritning först)",
         "No Plan Selected!": "Ingen planritning vald!",
         "Switch Icon": "Byt ikon"
 }
