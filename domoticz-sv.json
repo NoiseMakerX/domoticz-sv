@@ -551,9 +551,11 @@
         "No Sensor Type Selected!": "Ingen sensortyp vald!",
         "Sensor Created, and can be found in the devices tab!": "Sensor skapad. Du finner den under enheter!",
         "Problem creating Sensor!": "Problem vid skapandet av sensor!",
-        "Add Plan": "Lägg till planritning",
-        "Are you sure you want to delete this Plan": "Är du säker på att du vill radera denna planritning?",
-        "(Select Plan first to Edit...)": "(välj en planritning först)",
-        "No Plan Selected!": "Ingen planritning vald!",
-        "Switch Icon": "Ikon"
+        "Add Plan": "Lägg till plats",
+        "Are you sure you want to delete this Plan?": "Är du säker på att du vill radera denna plats",
+        "(Select Plan first to Edit...)": "(välj en plats att redigera först)",
+        "No Plan Selected!": "Ingen plats vald!",
+        "Switch Icon": "Ikon",
+        "Room": "Plats",
+        "Roomplan": "Platser"
 }
