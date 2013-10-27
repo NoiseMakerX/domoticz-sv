@@ -147,7 +147,7 @@
 	"Please enter a Address to search for!...": "Ange en adress att söka efter!",
 	"Geocode was not successful for the following reason": "Geocode misslyckades av följande anledning",
 	"Please enter the API key!...": "Ange din API-nyckel!",
-	"Notification send!<br>Should arrive at your device soon...": "Avisering skickad!<br>Den borde komma fram till din enhet inom kort...",
+	"Notification send!<br>Should arrive at your device soon...": "Avisering skickad!<br>Den borde komma fram till din enhet inom kort.",
 	"Invalid Email Settings...": "Felaktiga e-postinställningar...",
 	"Invalid Email From/To Settings...": "Felaktig e-postadress Från/Till!",
 	"Please enter an Email Password...": "Ange e-postlösenord!",
@@ -558,5 +558,7 @@
         "Switch Icon": "Ikon",
         "Room": "Plats",
         "Roomplan": "Platser",
-        "Randomness": "Slumpmässighet"
+        "Randomness": "Slumpmässighet",
+        "Guest User": "Gästanvändare",
+        "None": "Ingen"
 }
