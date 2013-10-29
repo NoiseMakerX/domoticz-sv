@@ -560,5 +560,7 @@
         "Roomplan": "Platser",
         "Randomness": "Slumpmässighet",
         "Guest User": "Gästanvändare",
-        "None": "Ingen"
+        "None": "Ingen",
+        "Are you sure to delete this Active Device?\n\nThis action can not be undone...": "Är du säker på att du vill radera denna AKTIVA enhet?\n\nDetta kan inte ångras!",
+        "Are you sure to delete ALL Active Devices?\n\nThis action can not be undone!!": "Är du säker på att du vill radera ALLA AKTIVA enheter?\n\nDetta kan inte ångras!"
 }
