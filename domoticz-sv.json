@@ -565,5 +565,8 @@
         "Are you sure to delete ALL Active Devices?\n\nThis action can not be undone!!": "Är du säker på att du vill radera ALLA AKTIVA enheter?\n\nDetta kan inte ångras!",
         "Version": "Version",
         "Latest Changes": "Senaste ändringarna",
-        "Click Here": "Klicka här"
+        "Click Here": "Klicka här",
+        "Color": "Färg",
+        "Hue": "Nyans",
+        "Brightness": "Ljusstyrka"
 }
