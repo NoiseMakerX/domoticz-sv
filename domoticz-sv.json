@@ -568,5 +568,18 @@
         "Click Here": "Klicka här",
         "Color": "Färg",
         "Hue": "Nyans",
-        "Brightness": "Ljusstyrka"
+        "Brightness": "Ljusstyrka",
+        "All": "Alla",
+        "Description": "Beskrivning",
+        "EnablePolling": "Aktivera pollning",
+        "Problem updating Node!": "Problem vid uppdatering av nod!!",
+        "Configuration": "Konfiguration",
+        "actual": "faktisk",
+        "RequestConfiguration": "Begär aktuella sparade värden från enheten",
+        "ApplyConfiguration": "Aktivera konfiguration för denna enhet",
+        "Problem updating Node Configuration": "Problem vid uppdatering av nodens konfiguration!",
+        "Configuration send to node. It the node is asleep, this could take a while!": "Konfigurationen skickad till noden. Om noden är i viloläge så kan det ta en stund!",
+        "Configuration requested from Node. It the Node is asleep, this could take a while!": "Konfigurationen begärd från noden. Om noden är i viloläge så kan det ta en stund.",
+        "Problem requesting Node Configuration!": "Problem vid begäran om nodens konfiguration!",
+        "Refresh": "Uppdatera"
 }
