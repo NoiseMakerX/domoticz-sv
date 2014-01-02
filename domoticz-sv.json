@@ -588,5 +588,14 @@
         "Off Action": "Åtgärd vid av",
         "Invalid ON Action!": "Ogiltig på-åtgärd!",
         "Invalid Off Action!": "Ogiltig av-åtgärd!",
-        "(Should start with http:// or script://)": "(ska börja med http:// eller script://)"
+        "(Should start with http:// or script://)": "(ska börja med http:// eller script://)",
+        "AcceptNewHardware": "Hårdvara/Enheter",
+        "AcceptNewHardwareDevices": "Acceptera ny hårdvaruenheter",
+        "Please select a Priority level!": "Välj prioriteringsnivå!",
+        "Priority": "Pioritering",
+        "Very Low": "Mycket låg",
+        "Moderate": "Medel",
+        "High": "Hög",
+        "Emergency": "Nödfall"
+
 }
