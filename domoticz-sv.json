@@ -596,6 +596,7 @@
         "Very Low": "Mycket låg",
         "Moderate": "Medel",
         "High": "Hög",
-        "Emergency": "Nödfall"
-
+        "Emergency": "Nödfall",
+        "Counter": "Räknare",
+        "Electric (Instant+Counter)": "El (Direkt+Räknare)"
 }
