@@ -27,7 +27,7 @@
 	"Notifications": "Aviseringar",
 	"Email Setup": "E-postkonfigurering",
 	"Meter/Counter Setup": "Mätare/Räknarinställning",
-	"Other Settings": "Andra inställningar",
+	"Other Settings": "Övriga inställningar",
 	"Backup Database": "Databasbackup",
 	"Save": "Spara",
 	"Test": "Testa",
@@ -598,5 +598,6 @@
         "High": "Hög",
         "Emergency": "Nödfall",
         "Counter": "Räknare",
-        "Electric (Instant+Counter)": "El (Direkt+Räknare)"
+        "Electric (Instant+Counter)": "El (Direkt+Räknare)",
+        "Forecast": "Prognos"
 }
